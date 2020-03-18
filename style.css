@@ -1,0 +1,53 @@
+.profil {
+	transform: translate(90%,-120%);
+	
+}
+	
+
+h1 {
+	font-size: 50px;
+	color: crimson;
+	padding: 500px 500px;
+	text-shadow: 3px 3px 1px black;
+	background-repeat: no-repeat;
+	background-size:contain;
+}
+	
+.photo_accueuil {
+	background-image: url(../screenshots/kf.jpg);
+}
+.photoprojets {
+	background-image: url(../screenshots/hack.jpg);
+}
+
+.photorapports {
+	background-image: url(../screenshots/question.jpg);
+}
+
+html {
+	background-color: brown
+}
+
+
+
+h2 {
+	text-align: center;
+	transform: translateY(-500%);
+	font-family: "Britannic", sans-serif;
+	
+}
+
+
+ul {
+	transform: translateY(-50%);
+	color:forestgreen;
+	font-size: 25px;
+}
+
+p {
+	background-color:black;
+	color: crimson;
+	padding:100px 15px;
+	transform: translateY(-50%);
+    text-align: center
+}
